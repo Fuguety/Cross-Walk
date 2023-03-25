@@ -1,0 +1,400 @@
+[
+    {
+        "Id": 1,
+        "Text": "Prologue: \n You woke up on a nice day, grabbed a cup of tea and go off to work.\n On your way to work, your car runs out of gas and you need to stop at a gas station 7Eleven. While filling up the gas you see a beautiful lady on the other side of the road.\n The lady has a beautiful long red hair, you immedietly fall in love for her. Now you want really want to meet her, but she is on the other side of the road.",
+        "Responses": 
+        [
+            {
+                "Sequence": 1,
+                "Text": "Continue",
+                "TargetId": 2
+            },
+            {
+                "Sequence": 9,
+                "Text": "Exit Game",
+                "TargetId": 0
+            }
+        ]
+    },
+    {
+        "Id": 2,
+        "Text": "Welcome <NAME> to crossWalk, you want to cross the street to meet your dream girl. Good luck!",
+        "Responses": 
+        [
+            {
+                "Sequence": 1,
+                "Text": "Start Game",
+                "TargetId": 3
+            },
+            {
+                "Sequence": 9,
+                "Text": "Exit Game",
+                "TargetId": 0
+            }
+        ]
+    },
+    {
+        "Id": 3,
+        "Text": "Choose a path",
+        "Responses": 
+        [
+            {
+                "Sequence": 1,
+                "Text": "Cross the street immedietly",
+                "TargetId": -1
+            },
+            {
+                "Sequence": 2,
+                "Text": "Wave to ask the vehicles to stop",
+                "TargetId": -2
+            },
+            {
+                "Sequence": 3,
+                "Text": "Enter 7Eleven",
+                "TargetId": 4
+            },
+            {
+                "Sequence": 9,
+                "Text": "Exit Game",
+                "TargetId": 0
+            }
+        ]
+    },
+    {
+        "Id": -1,
+        "Text": "You Died!",
+        "Responses": 
+        [
+            {
+                "Sequence": 1,
+                "Text": "Restart",
+                "TargetId": 1
+            },
+            {
+                "Sequence":9,
+                "Text": "Exit Game",
+                "TargetId": 0
+            }
+        ]
+    },
+    {
+        "Id": -2,
+        "Text": "No luck",
+        "Responses": 
+        [
+            {
+                "Sequence": 1,
+                "Text": "Go back",
+                "TargetId": 3
+            },
+            {
+                "Sequence":9,
+                "Text": "Exit Game",
+                "TargetId": 0
+            }
+        ]
+    },
+    {
+        "Id": -3,
+        "Text": "Nothing to see there",
+        "Responses": 
+        [
+            {
+                "Sequence": 1,
+                "Text": "Go back",
+                "TargetId": 4
+            },
+            {
+                "Sequence":9,
+                "Text": "Exit Game",
+                "TargetId": 0
+            }
+        ]
+    },
+    {
+        "Id": -4,
+        "Text": "You get into the car and go to work. \n The End \n\n Thank you fro playing!",
+        "Responses": 
+        [
+            {
+                "Sequence": 1,
+                "Text": "Restart",
+                "TargetId": 1
+            },
+            {
+                "Sequence":9,
+                "Text": "Exit Game",
+                "TargetId": 0
+            }
+        ]
+    },
+    {
+        "Id": -5,
+        "Text": "Nice to meet you! Now I really have to go to work",
+        "Responses": 
+        [
+            {
+                "Sequence": 1,
+                "Text": "Say goodbye",
+                "TargetId": -4
+            },
+            {
+                "Sequence":9,
+                "Text": "Exit Game",
+                "TargetId": 0
+            }
+        ]
+    },
+    {
+	    "Id": -6,
+	    "Text": "No luck",
+	    "Responses": 
+        [
+            {
+                "Sequence": 1,
+                "Text": "Go back",
+                "TargetId": 8
+            },
+            {
+                "Sequence":9,
+                "Text": "Exit Game",
+                "TargetId": 0
+            }
+        ]
+   
+    
+    },
+    {
+        "Id": 4,
+        "Text": "You are inside 7Eleven",
+        "Responses": 
+        [
+            {
+                "Sequence": 1,
+                "Text": "Talk to cashier",
+                "TargetId": 5
+            },
+            {
+                "Sequence": 2,
+                "Text": "Enter backroom",
+                "TargetId": -3
+            },
+            {
+                "Sequence": 3,
+                "Text": "Exit 7Eleven",
+                "TargetId": 3
+            },
+            {
+                "Sequence": 9,
+                "Text": "Exit Game",
+                "TargetId": 0
+            }
+        ]
+    },
+    {
+        "Id": 5,
+        "Text": "Hey bro, nice car! What can I do for you today?",
+        "Responses": 
+        [
+            {
+                "Sequence": 1,
+                "Text": "Pay for the Gas",
+                "TargetId": 6
+            },
+            {
+                "Sequence": 3,
+                "Text": "Go back",
+                "TargetId": 4
+            },
+            {
+                "Sequence": 9,
+                "Text": "Exit Game",
+                "TargetId": 0
+            }
+        ]
+    },
+    {
+        "Id": 6,
+        "Text": "Gas is now payed, anything else?",
+        "Responses": 
+        [
+            {
+                "Sequence": 1,
+                "Text": "Buy some roses",
+                "TargetId": 7,
+                "Item": {"Key": "ROSE", "Name": "Rose"}
+            },
+            {
+                "Sequence": 2,
+                "Text": "Buy some tulips",
+                "TargetId": 7,
+                "Item": {"Key": "Tulips", "Name": "Tulip"}
+            },
+            {
+                "Sequence": 3,
+                "Text": "Exit Store",
+                "TargetId": 8
+            },
+            {
+                "Sequence": 9,
+                "Text": "Exit Game",
+                "TargetId": 0
+            }
+        ]
+    },
+    {
+        "Id": 7,
+        "Text": "Nice choise of flowers, she must be special.",
+        "Responses": 
+        [
+            {
+                "Sequence": 1,
+                "Text": "Exit Store",
+                "TargetId": 8
+            },
+            {
+                "Sequence": 9,
+                "Text": "Exit Game",
+                "TargetId": 0
+            }
+        ]
+    },
+    {
+        "Id": 8,
+        "Text": "Thanks! for coming. \nYou're outside now.",
+        "Responses": 
+        [
+            {
+                "Sequence": 1,
+                "Text": "Cross the street immedietly",
+                "TargetId": -1
+            },
+            {
+                "Sequence": 2,
+                "Text": "Wave to ask the vehicles to stop",
+                "TargetId": -6
+            },
+            {
+                "Sequence": 3,
+                "Text": "Turn on the car and cross the road",
+                "TargetId": 9
+            },
+            {
+                "Sequence": 4,
+                "Text": "Turn on the car and go to work",
+                "TargetId": -4
+            },
+            {
+                "Sequence": 9,
+                "Text": "Exit Game",
+                "TargetId": 0
+            }
+        ]
+    },
+    {
+        "Id": 9,
+        "Text": "You turn on the car and cross the street. You see that the beutiful girl is still there, you pull up and say:",
+        "Responses": 
+        [
+            {
+                "Sequence": 1,
+                "Text": "Hello, how are you?",
+                "TargetId": 10
+            },
+            {
+                "Sequence": 9,
+                "Text": "Exit Game",
+                "TargetId": 0
+            }
+        ]
+    },
+    {
+        "Id": 10,
+        "Text": "I'm good, thanks for asking. Anything I can help you with?",
+        "Responses": 
+        [
+            {
+                "Sequence": 1,
+                "Text": "Yes, what's you're name?",
+                "TargetId": 11
+            },
+            {
+                "Sequence": 2,
+                "Text": "No",
+                "TargetId": -4
+            },
+            {
+                "Sequence": 9,
+                "Text": "Exit Game",
+                "TargetId": 0
+            }
+        ]
+    },
+    {
+        "Id": 11,
+        "Text": "My name is Suzzie",
+        "Responses": 
+        [
+            {
+                "Sequence": 1,
+                "Text": "Hi Suzzie, nice to meet you. I just wanted to tell you that you are very beutiful and also make sure you here that every single day",
+                "TargetId": 12
+            },
+            {
+                "Sequence": 2,
+                "Text": "Leave off to work",
+                "TargetId": -4
+            },
+            {
+                "Sequence": 9,
+                "Text": "Exit Game",
+                "TargetId": 0
+            }
+        ]
+    },
+    {
+        "Id": 12,
+        "Text": "*She blushes* Hahahaha you are so sweet, what's your name?",
+        "Responses": 
+        [
+            {
+                "Sequence": 1,
+                "Text": "My name is <NAME>.",
+                "TargetId": -5
+            },
+            {
+                "Sequence": 2,
+                "Text": "My name is <NAME>. *Give the <FLOWER>",
+                "TargetId": 13
+            },
+            {
+                "Sequence": 3,
+                "Text": "Leave off to work",
+                "TargetId": -4
+            },
+            {
+                "Sequence": 9,
+                "Text": "Exit Game",
+                "TargetId": 0
+            }
+        ]
+    },
+    {
+        "Id": 13,
+        "Text": "WOW! <FLOWER> is my favorite, thank so much! Here is my phone number, lets have dinner sometime. I really need to go to work! Nice meeting you, catch you later! \n*She slowly fades away with a smile in her face*",
+        "Responses": 
+        [
+            {
+                "Sequence": 1,
+                "Text": "See ya Suzzie!",
+                "TargetId": -4
+            },
+            {
+                "Sequence": 9,
+                "Text": "Exit Game",
+                "TargetId": 0
+            }
+        ]
+    }
+
+]

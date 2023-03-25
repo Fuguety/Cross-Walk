@@ -1,0 +1,34 @@
+C:\Users\VMF PRO 06\Desktop\Game\TextGameBase\TextGameBase\TextGameBase\bin\Debug\net7.0\TextGameBase.exe
+C:\Users\VMF PRO 06\Desktop\Game\TextGameBase\TextGameBase\TextGameBase\bin\Debug\net7.0\TextGameBase.deps.json
+C:\Users\VMF PRO 06\Desktop\Game\TextGameBase\TextGameBase\TextGameBase\bin\Debug\net7.0\TextGameBase.runtimeconfig.json
+C:\Users\VMF PRO 06\Desktop\Game\TextGameBase\TextGameBase\TextGameBase\bin\Debug\net7.0\TextGameBase.dll
+C:\Users\VMF PRO 06\Desktop\Game\TextGameBase\TextGameBase\TextGameBase\bin\Debug\net7.0\TextGameBase.pdb
+C:\Users\VMF PRO 06\Desktop\Game\TextGameBase\TextGameBase\TextGameBase\bin\Debug\net7.0\LiteDB.dll
+C:\Users\VMF PRO 06\Desktop\Game\TextGameBase\TextGameBase\TextGameBase\obj\Debug\net7.0\TextGameBase.csproj.AssemblyReference.cache
+C:\Users\VMF PRO 06\Desktop\Game\TextGameBase\TextGameBase\TextGameBase\obj\Debug\net7.0\TextGameBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VMF PRO 06\Desktop\Game\TextGameBase\TextGameBase\TextGameBase\obj\Debug\net7.0\TextGameBase.AssemblyInfoInputs.cache
+C:\Users\VMF PRO 06\Desktop\Game\TextGameBase\TextGameBase\TextGameBase\obj\Debug\net7.0\TextGameBase.AssemblyInfo.cs
+C:\Users\VMF PRO 06\Desktop\Game\TextGameBase\TextGameBase\TextGameBase\obj\Debug\net7.0\TextGameBase.csproj.CoreCompileInputs.cache
+C:\Users\VMF PRO 06\Desktop\Game\TextGameBase\TextGameBase\TextGameBase\obj\Debug\net7.0\TextGameBase.csproj.CopyComplete
+C:\Users\VMF PRO 06\Desktop\Game\TextGameBase\TextGameBase\TextGameBase\obj\Debug\net7.0\TextGameBase.dll
+C:\Users\VMF PRO 06\Desktop\Game\TextGameBase\TextGameBase\TextGameBase\obj\Debug\net7.0\refint\TextGameBase.dll
+C:\Users\VMF PRO 06\Desktop\Game\TextGameBase\TextGameBase\TextGameBase\obj\Debug\net7.0\TextGameBase.pdb
+C:\Users\VMF PRO 06\Desktop\Game\TextGameBase\TextGameBase\TextGameBase\obj\Debug\net7.0\TextGameBase.genruntimeconfig.cache
+C:\Users\VMF PRO 06\Desktop\Game\TextGameBase\TextGameBase\TextGameBase\obj\Debug\net7.0\ref\TextGameBase.dll
+C:\Users\lucze\projects\helloworld\temp\Cloud\Game\TextGameBase\TextGameBase\TextGameBase\bin\Debug\net7.0\TextGameBase.exe
+C:\Users\lucze\projects\helloworld\temp\Cloud\Game\TextGameBase\TextGameBase\TextGameBase\bin\Debug\net7.0\TextGameBase.deps.json
+C:\Users\lucze\projects\helloworld\temp\Cloud\Game\TextGameBase\TextGameBase\TextGameBase\bin\Debug\net7.0\TextGameBase.runtimeconfig.json
+C:\Users\lucze\projects\helloworld\temp\Cloud\Game\TextGameBase\TextGameBase\TextGameBase\bin\Debug\net7.0\TextGameBase.dll
+C:\Users\lucze\projects\helloworld\temp\Cloud\Game\TextGameBase\TextGameBase\TextGameBase\bin\Debug\net7.0\TextGameBase.pdb
+C:\Users\lucze\projects\helloworld\temp\Cloud\Game\TextGameBase\TextGameBase\TextGameBase\bin\Debug\net7.0\LiteDB.dll
+C:\Users\lucze\projects\helloworld\temp\Cloud\Game\TextGameBase\TextGameBase\TextGameBase\obj\Debug\net7.0\TextGameBase.csproj.AssemblyReference.cache
+C:\Users\lucze\projects\helloworld\temp\Cloud\Game\TextGameBase\TextGameBase\TextGameBase\obj\Debug\net7.0\TextGameBase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucze\projects\helloworld\temp\Cloud\Game\TextGameBase\TextGameBase\TextGameBase\obj\Debug\net7.0\TextGameBase.AssemblyInfoInputs.cache
+C:\Users\lucze\projects\helloworld\temp\Cloud\Game\TextGameBase\TextGameBase\TextGameBase\obj\Debug\net7.0\TextGameBase.AssemblyInfo.cs
+C:\Users\lucze\projects\helloworld\temp\Cloud\Game\TextGameBase\TextGameBase\TextGameBase\obj\Debug\net7.0\TextGameBase.csproj.CoreCompileInputs.cache
+C:\Users\lucze\projects\helloworld\temp\Cloud\Game\TextGameBase\TextGameBase\TextGameBase\obj\Debug\net7.0\TextGameBase.csproj.CopyComplete
+C:\Users\lucze\projects\helloworld\temp\Cloud\Game\TextGameBase\TextGameBase\TextGameBase\obj\Debug\net7.0\TextGameBase.dll
+C:\Users\lucze\projects\helloworld\temp\Cloud\Game\TextGameBase\TextGameBase\TextGameBase\obj\Debug\net7.0\refint\TextGameBase.dll
+C:\Users\lucze\projects\helloworld\temp\Cloud\Game\TextGameBase\TextGameBase\TextGameBase\obj\Debug\net7.0\TextGameBase.pdb
+C:\Users\lucze\projects\helloworld\temp\Cloud\Game\TextGameBase\TextGameBase\TextGameBase\obj\Debug\net7.0\TextGameBase.genruntimeconfig.cache
+C:\Users\lucze\projects\helloworld\temp\Cloud\Game\TextGameBase\TextGameBase\TextGameBase\obj\Debug\net7.0\ref\TextGameBase.dll

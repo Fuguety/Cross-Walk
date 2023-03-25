@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "f4sEYPOb/IgYYySLjy/x2OOLjerxHecN7ZthFazvIfN7/owYe6yuHZJUZixJNCXgpw4UmqhlB88DaTVqCq5FAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucze\\projects\\helloworld\\temp\\Cloud\\Game\\TextGameBase\\TextGameBase\\TextGameBase\\TextGameBase.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucze\\.nuget\\packages\\litedb\\5.0.16\\litedb.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

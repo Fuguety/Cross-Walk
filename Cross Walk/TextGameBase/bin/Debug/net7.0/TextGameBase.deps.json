@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TextGameBase/1.0.0": {
+        "dependencies": {
+          "LiteDB": "5.0.16"
+        },
+        "runtime": {
+          "TextGameBase.dll": {}
+        }
+      },
+      "LiteDB/5.0.16": {
+        "runtime": {
+          "lib/netstandard2.0/LiteDB.dll": {
+            "assemblyVersion": "5.0.16.0",
+            "fileVersion": "5.0.16.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TextGameBase/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LiteDB/5.0.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DMUYdRlgNbrSlyWzdQ4GqW934ntNHBGWMTNQlOL4hWz8WnveY6V9ZGo2ntPrSATW7kat8v5VoCXGSzToPiwZWw==",
+      "path": "litedb/5.0.16",
+      "hashPath": "litedb.5.0.16.nupkg.sha512"
+    }
+  }
+}
