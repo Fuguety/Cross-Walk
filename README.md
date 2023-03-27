@@ -17,3 +17,5 @@ Runs on:
 ![MAC](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 Text game base - Material for 3D game course
+
+- Authors: Fuguety and Kelvys
