@@ -1,7 +1,7 @@
 # Cross-Walk
 
 <br>
-Clone the repository and just type in **dotnet run** and enjoy!
+Clone the repository and just type in  "dotnet run" and enjoy!
 
 
 
